@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+       "question":"Q1. Which color is not there in the rainbow?",
+       "option":["Red","Yellow","Brown","Indigo"],
+       "answer":3 
+    },
+ 
+   
+
+{
+    "id":"2",
+   "question":"Q2. National Assembly is the Parliament of?",
+   "option":["Australia","China","France","Japan"],
+   "answer":3 
+},
+
+{
+    "id":"3",
+   "question":"Q3. What is the tallest waterfall in the world?",
+   "option":["Angel Falls, Venezuela","Niagara Falls, New York","Wailua Falls, Hawaii","Sutherland Falls, New Zealand"],
+   "answer":1
+},
+
+{
+    "id":"4",
+   "question":"Q4. Which among the following is the brightest planet?",
+   "option":["Mercury","Venus","Mars","Neptune"],
+   "answer":2
+},
+{
+    "id":"5",
+   "question":"Q5. Which is the longest river in the world?",
+   "option":["Mississippi","Nile","Amazon","Yangtze"],
+   "answer":2
+}
+
+]
